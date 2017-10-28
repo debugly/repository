@@ -3,6 +3,10 @@
 这个仓库用来存放测试用的 json，mp4 等资源文件。
 资源地址: `http://debugly.cn/repository/test.mp4`
 
+<video src="http://debugly.cn/repository/test.mp4" controls="controls">
+您的浏览器不支持 video 标签。
+</video>
+
 ## How
 
 为什么可以使用这个地址访问？

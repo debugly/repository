@@ -1,0 +1,142 @@
+{
+    "code": "0",
+    "content": {
+        "gallery": [
+                    {
+                    "isFlagship": "0",
+                    "name": "白色情人节 与浪漫牵手",
+                    "pic": "http://pic16.shangpin.com/e/s/15/03/06/20150306174649601525-10-10.jpg",
+                    "refContent": "http://m.shangpin.com/meet/189",
+                    "type": "5"
+                    },
+                    {
+                    "isFlagship": "0",
+                    "name": "【早春新品预售】",
+                    "pic": "http://pic11.shangpin.com/e/s/15/03/13/20150313101837452024-10-10.jpg",
+                    "refContent": "50310992",
+                    "type": "1"
+                    },
+                    {
+                    "isFlagship": "0",
+                    "name": "【男装春季促销】",
+                    "pic": "http://pic12.shangpin.com/e/s/15/03/12/20150312092557150616-10-10.jpg",
+                    "refContent": "50310978",
+                    "type": "1"
+                    },
+                    {
+                    "isFlagship": "0",
+                    "name": "【男装春季促销】",
+                    "pic": "http://pic12.shangpin.com/e/s/15/03/12/20150312092557150616-10-10.jpg",
+                    "refContent": "50310978",
+                    "type": "1"
+                    },
+                    {
+                    "isFlagship": "0",
+                    "name": "【男装春季促销】",
+                    "pic": "http://pic12.shangpin.com/e/s/15/03/12/20150312092557150616-10-10.jpg",
+                    "refContent": "50310978",
+                    "type": "1"
+                    },
+                    {
+                    "isFlagship": "0",
+                    "name": "【男装春季促销】",
+                    "pic": "http://pic12.shangpin.com/e/s/15/03/12/20150312092557150616-10-10.jpg",
+                    "refContent": "50310978",
+                    "type": "1"
+                    }
+                    ],
+        "entrance": [
+                      {
+                      "isFlagship": "0",
+                      "name": "时尚潮时尚",
+                      "pic": "http://pic12.shangpin.com/e/s/15/03/03/20150303151320537363-10-10.jpg",
+                      "refContent": "http://m.shangpin.com/meet/185",
+                      "type": "5"
+                      },
+                      {
+                      "isFlagship": "0",
+                      "name": "优惠券留",
+                      "pic": "http://pic14.shangpin.com/e/s/15/03/05/20150305164615551722-10-10.jpg",
+                      "refContent": "50305792",
+                      "type": "1"
+                      },
+                      {
+                      "isFlagship": "0",
+                      "name": "物流查",
+                      "pic": "http://pic15.shangpin.com/e/s/15/03/03/20150303155535618638-10-10.jpg",
+                      "refContent": "http://m.shangpin.com/meet/188",
+                      "type": "5"
+                      },
+                      {
+                      "isFlagship": "0",
+                      "name": "入口",
+                      "pic": "http://pic14.shangpin.com/e/s/15/03/05/20150305164615551722-10-10.jpg",
+                      "refContent": "50305792",
+                      "type": "1"
+                      },
+                      {
+                      "isFlagship": "0",
+                      "name": "礼品卡",
+                      "pic": "http://pic15.shangpin.com/e/s/15/03/03/20150303155535618638-10-10.jpg",
+                      "refContent": "http://m.shangpin.com/meet/188",
+                      "type": "5"
+                      },
+                      {
+                      "name": "不错哦",
+                      "pic": "http://pic14.shangpin.com/e/s/15/03/05/20150305142326260964-10-10.jpg",
+                      "refContent": "50302515",
+                      "type": "1"
+                      },
+                      {
+                      "name": "购物车",
+                      "pic": "http://pic12.shangpin.com/e/s/15/03/05/20150305143006228421-10-10.jpg",
+                      "refContent": "50215339",
+                      "type": "1"
+                      },
+                      {
+                      "name": "列表页",
+                      "pic": "http://pic14.shangpin.com/e/s/15/03/05/20150305142326260964-10-10.jpg",
+                      "refContent": "50302515",
+                      "type": "1"
+                      }
+                      ],
+        "releases": [
+                     {
+                     "desc": "",
+                     "endTime": "1426554000000",
+                     "height": "720",
+                     "name": "【TOPSHOP 2000条牛仔裤补货到】",
+                     "pic": "http://pic12.shangpin.com/e/s/15/03/12/20150312132707142163-10-10.jpg",
+                     "refContent": "50311019",
+                     "startTag": "03.13",
+                     "startTime": "1426212600000",
+                     "type": "1",
+                     "width": "720"
+                     },
+                     {
+                     "desc": "MO&CO.新品特惠",
+                     "endTime": "1426467600000",
+                     "height": "490",
+                     "name": "MO&CO.新品特惠",
+                     "pic": "http://pic14.shangpin.com/e/s/15/03/13/20150313095913400551-10-10.jpg",
+                     "refContent": "50306843",
+                     "startTag": "03.13",
+                     "startTime": "1426209300000",
+                     "type": "1",
+                     "width": "720"
+                     },
+                     {
+                     "desc": "美式轻奢风",
+                     "endTime": "1426467600000",
+                     "height": "580",
+                     "name": "【新品预售 3月18日发货】",
+                     "pic": "http://pic11.shangpin.com/e/s/15/03/09/20150309145151259290-10-10.jpg",
+                     "refContent": "50309891",
+                     "startTag": "03.13",
+                     "startTime": "1426208400000",
+                     "type": "1",
+                     "width": "720"
+                     }
+                     ]
+      }
+}

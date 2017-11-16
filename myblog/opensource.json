@@ -1,0 +1,44 @@
+{
+    "header": {
+    "title": "持续更新的开源项目",
+    "descArr": ["从 16 年 5 月开始，我在搜狐的工作由 App 转为 SDK，为了提供清爽的 SDK，不过多依赖其他库，因此造了一批轮子出来。",
+              "业余时间我写了几个用来自娱自乐，提升自我的小项目。",
+              "这些轮子不够完美，正是因为缺少了你的帮助！"]
+  },
+  "projects" : [ {"name":"SohuH5-NativeInteraction",
+                "taglines":["H5-Native交互一站式解决方案，无需关心底层通信封装，把更多时间投入到业务层代码。","该方案已经在 [千帆直播SDK，搜狐课堂SDK，我乐斗地主等项目] 中推广使用。"]
+               },
+               {
+                "name":"PureTransition",
+                "taglines":["为千帆小视频 SDK 定制的 push/pop 转场动画，封装了一下，可以直接用，不需要过多配置也没有耦合依赖。"]
+               },
+               {
+                "name":"SHOnlineSandbox",
+                "taglines":["业余时间写了一个在线查看沙盒文件的 SDK，内部使用原生 socket 搭建了一个 http 服务器；这样就能通过 http 协议和浏览器通信了，内部服务器支持文件，也支持 API 请求；H5 页面通过 Ajax 异步请求 json 格式的数据，页面使用了 vue.js 框架，所以拿到数据后直接赋值给 vue app 的 model，默认是绑定的，所以数据更新后，UI 自动刷新！"]
+               },
+               {
+                "name":"SCJSONUtil",
+                "taglines":["轻量、方便、功能强大的 JSON 转 Model 框架"]
+               },
+               {
+                "name":"SCNetworkKit",
+                "taglines":["使用 NSURLSession 编写的网络库，异步解析响应数据；配备JSON，Model，Image等解析器；支持下载文件，支持速度回调等"]
+               },
+               {
+                "name":"SCWebImage",
+                "taglines":["简单实用的网络图片缓存库"]
+               },
+               {
+                "name":"SCCache",
+                "taglines":["最初服务于SCWebImage，实现了 NSCoding 协议的对象均可存储"]
+               },
+               {
+                "name":"SCCarouseView",
+                "taglines":["无限循环的轮播图，集成很简单，没有任何依赖"]
+               },
+               {
+                "name":"StudyFFmpeg",
+                "taglines":["业余时间会学习下 FFmpeg 的使用，公司有专业的编码组负责播放器，因此对于底层播放知道的不多，不过音视频挺感兴趣的，所以会抽空去学习下，创建了这个 day-by-day 的工程，方便悦者学习。"]
+               }
+             ]
+  }
